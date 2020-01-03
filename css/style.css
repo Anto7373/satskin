@@ -1,0 +1,73 @@
+.fserv-container .fserv-field .select2-container .select2-selection--single, .fserv-container .select2-selection {
+    border-radius:0px;
+}
+.fserv-container .fserv-form-name {
+    display:none;
+}
+.col-md-4 {
+    top:5px;
+}
+.fresh-form .fserv-container .fserv-textarea {
+    right: 2px;
+    position: relative;
+}
+.fserv-container .fserv-field .select2-container .select2-selection--single, .fserv-container .select2-selection {
+        width: 380px;
+    margin-left: 4px;
+}
+.fserv-container button[type=submit].fserv-button-submit {
+    position: absolute;
+    max-width: 182px;
+    left: 216px;
+    bottom: -62px;
+}
+.fserv-container .fserv-field .select2-container .select2-selection--single .select2-selection__arrow {
+    left:92%;
+}
+.clearfix-bottom .fserv-button-submit{
+    
+    left: 57rem !important;
+    min-width: 47.5%;
+    height: 37px;
+    
+}
+.clearfix-bottom .fserv-container .fserv-field .select2-container .select2-selection--single, .fserv-container .select2-selection { 
+    
+    
+    width: 98%;
+    margin-left: 9px;
+}
+.clearfix-bottom .fserv-container .fserv-field .select2-container .select2-selection--single .select2-selection__arrow {
+    left: 96%;
+    
+}
+.workout{
+        position: relative;
+    bottom: 34px;
+    
+}
+.mask{
+   position: relative;
+    bottom: 33px; 
+}
+.cruzbytes .fserv-container .fserv-field .select2-container .select2-selection--single, .fserv-container .select2-selection {
+    
+        width: 231px;
+    margin-left: -1px;
+
+}
+.cruzbytes .fserv-button-submit{
+    right: 77px;
+}  
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
